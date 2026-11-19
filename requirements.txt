@@ -1,17 +1,14 @@
-# Web Framework & API
-fastapi>=0.110.0
-uvicorn>=0.29.0
+# Web App Framework
+streamlit>=1.32.0
+
+# Web Scraping & HTML Parsing
+beautifulsoup4>=4.12.3
 requests>=2.31.0
+lxml>=5.1.0
 
 # Data Manipulation & Analysis
-numpy>=1.26.4
 pandas>=2.2.1
+numpy>=1.26.4
 
 # Environment & Configuration
 python-dotenv>=1.0.1
-pydantic>=2.6.4
-
-# Testing & Formatting
-pytest>=8.1.1
-black>=24.3.0
-flake8>=7.0.0
