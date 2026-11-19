@@ -1,0 +1,17 @@
+# Web Framework & API
+fastapi>=0.110.0
+uvicorn>=0.29.0
+requests>=2.31.0
+
+# Data Manipulation & Analysis
+numpy>=1.26.4
+pandas>=2.2.1
+
+# Environment & Configuration
+python-dotenv>=1.0.1
+pydantic>=2.6.4
+
+# Testing & Formatting
+pytest>=8.1.1
+black>=24.3.0
+flake8>=7.0.0
